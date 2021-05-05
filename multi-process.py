@@ -1,4 +1,8 @@
-#import pandas as pd
+# Answer 04/05/2021
+# https://stackoverflow.com/questions/67393699/python-multithread-with-multiple-arrays-passing-args-to-function/
+# A usefull article of Multiprocessing in Python https://www.geeksforgeeks.org/multiprocessing-python-set-2/
+
+
 import multiprocessing
 from multiprocessing import Queue
 from threading import Thread
